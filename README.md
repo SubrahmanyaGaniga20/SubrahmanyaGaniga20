@@ -26,4 +26,5 @@
 ![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubrahmanyaGaniga20&" alt="SubrahmanyaGaniga20" /></p>]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubrahmanyaGaniga20)
+
